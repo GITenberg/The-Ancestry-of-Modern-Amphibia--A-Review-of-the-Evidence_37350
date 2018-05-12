@@ -1,0 +1,31 @@
+_repo: The-Ancestry-of-Modern-Amphibia--A-Review-of-the-Evidence_37350
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eaton, Theodore H. (Theodore Hildreth)
+    alias: Eaton, Theodore Hildreth
+    birthdate: 1907
+    deathdate: 1981
+    gutenberg_agent_id: '34978'
+    url: http://www.gutenberg.org/2009/agents/34978
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Reptiles and Amphibians
+gutenberg_issued: '2011-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amphibians, Fossil'
+- !lcc 'QH'
+- !lcsh 'Amphibians -- Anatomy'
+title: 'The Ancestry of Modern Amphibia: A Review of the Evidence'
+url: http://www.gutenberg.org/ebooks/37350
