@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34978'
     url: http://www.gutenberg.org/2009/agents/34978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37350#The-Ancestry-of-Modern-Amphibia--A-Review-of-the-Evidence
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Reptiles and Amphibians
